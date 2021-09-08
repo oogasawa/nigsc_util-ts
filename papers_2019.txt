@@ -1,0 +1,1088 @@
+	–¼‘O	˜_•¶–¼	G–¼AŠª†Aƒy[ƒW‚Ì”ÍˆÍ	o”Å”N	DOI	PMID	
+1	"–q–ì ”\m, ‰Í“c ‰ëŒ\"	Invasive invertebrates associated with highly duplicated gene content	"Mol Ecol
+. 2019 Apr;28(7):1652-1663."	2019	doi: 10.1111/mec.15019	30811716	
+2	ã“c ^•Ûq	Systematic survey of non-retroviral virus-like elements in eukaryotic genomes	"Virus Res
+. 2019 Mar;262:30-36."	2019	doi: 10.1016/j.virusres.2018.02.002	29425804	
+3	¼”g ‰ër	Caste-specific microRNA expression in termites: insights into soldier differentiation.	"Insect Mol Biol
+. 2019 Feb;28(1):86-98."	2019	doi: 10.1111/imb.12530	30126008	
+4	"‰““¡ –¾m, ‘O–ì T‘¾˜N"	Introduction of bifunctional alcohol/acetaldehyde dehydrogenase gene (adhE) in Fructobacillus fructosus settled its fructophilic characteristics	"Res Microbiol
+. Jan-Feb 2019;170(1):35-42."	2019	doi: 10.1016/j.resmic.2018.09.004	30291951	
+5	•“c ^–ç	Reconstruction of global regulatory network from signaling to cellular functions using phosphoproteomic data	"Genes Cells
+. 2019 Jan;24(1):82-93."	2019	doi: 10.1111/gtc.12655	30417516	
+6	‰Á‰ê’J —S‹P	COXPRESdb v7: a gene coexpression database for 11 animal species supported by 23 coexpression platforms for technical evaluation and evolutionary inference	"Nucleic Acids Res
+. 2019 Jan 8;47(D1):D55-D62."	2019	doi: 10.1093/nar/gky1155	30462320	
+7	"‰“–ì ‰ë“¿, ’JàV –õ—m"	Reclassification of Paenibacillus thermophilus Zhou et al. 2013 as a later heterotypic synonym of Paenibacillus macerans (Schardinger 1905) Ash et al. 1994	"Int J Syst Evol Microbiol
+. 2019 Feb;69(2):417-421."	2019	doi: 10.1099/ijsem.0.003160	30540240	
+8	•ĞR r–¾	TogoGenome/TogoStanza: modularized Semantic Web genome database	"Database (Oxford)
+. 2019 Jan 1;2019:bay132."	2019	doi: 10.1093/database/bay132	30624651	
+9	‘O“c ˆÀM	Secretome analysis of Strongyloides venezuelensis parasitic stages reveals that soluble and insoluble proteins are involved in its parasitism	"Parasit Vectors
+. 2019 Jan 9;12(1):21."	2019	doi: 10.1186/s13071-018-3266-x	30626426	
+10	"‰“–ì ‰ë“¿, ’JàV –õ—m"	"Lactobacillus salitolerans sp. nov., a novel lactic acid bacterium isolated from spent mushroom substrates"	"Int J Syst Evol Microbiol
+. 2019 Apr;69(4):964-969. "	2019	doi: 10.1099/ijsem.0.003224	30628884	
+11	•½“c 	Genetic and phenotypic landscape of the major histocompatibilty complex region in the Japanese population.	"Nat Genet
+. 2019 Mar;51(3):470-480."	2019	doi: 10.1038/s41588-018-0336-0	30692682	
+12	ª–{ —q	Integrated transcriptomic and proteomic analyses of a molecular mechanism of radular teeth biomineralization in Cryptochiton stelleri.	"Sci Rep
+. 2019 Jan 29;9(1):856."	2019	doi: 10.1038/s41598-018-37839-2	30696920	
+13	‹g“c Œ’‘¾˜Y	Origin of wheat B-genome chromosomes inferred from RNA sequencing analysis of leaf transcripts from section Sitopsis species of Aegilops	"DNA Res
+. 2019 Apr 1;26(2):171-182."	2019	doi: 10.1093/dnares/dsy047	30715317	
+14	–V”_ G‰ë	Comparative analysis of seven types of superoxide dismutases for their ability to respond to oxidative stress in Bombyx mori.	"Sci Rep
+. 2019 Feb 18;9(1):2170."	2019	doi: 10.1038/s41598-018-38384-8	30778096	
+15	•½–ì ‰ë‹K	Aberrant Active cis-Regulatory Elements Associated with Downregulation of RET Finger Protein Overcome Chemoresistance in Glioblastoma	"Cell Rep
+. 2019 Feb 26;26(9):2274-2281.e5."	2019	doi: 10.1016/j.celrep.2019.01.109	30811978	
+16	”‹´ Œ«Œá	"Genome-wide analysis of MpBHLH12, a IIIf basic helix-loop-helix transcription factor of Marchantia polymorpha."	"J Plant Res
+. 2019 Mar;132(2):197-209."	2019	doi: 10.1007/s10265-019-01095-w	30840209	
+17	”öè —É	Possible cross-feeding pathway of facultative methylotroph Methyloceanibacter caenitepidi Gela4 on methanotroph Methylocaldum marinum S8	"PLoS One
+. 2019 Mar 14;14(3):e0213535."	2019	doi: 10.1371/journal.pone.0213535	30870453	
+18	ŠâØ ~ˆê	reactIDR: evaluation of the statistical reproducibility of high-throughput structural analyses towards a robust RNA structure prediction	"BMC Bioinformatics
+. 2019 Mar 29;20(Suppl 3):130."	2019	doi: 10.1186/s12859-019-2645-4	30925857	
+19	²“¡ sl	Environmental DNA metabarcoding to detect pathogenic Leptospira and associated organisms in leptospirosis-endemic areas of Japan.	"Sci Rep
+. 2019 Apr 25;9(1):6575."	2019	doi: 10.1038/s41598-019-42978-1	31024059	
+20	‚¼ ‘s	Salt Tolerance Improvement in Rice through Efficient SNP Marker-Assisted Selection Coupled with Speed-Breeding	"Int J Mol Sci
+. 2019 May 26;20(10):2585."	2019	doi: 10.3390/ijms20102585	31130712	
+21	ŠâØ ~ˆê	LncRRIsearch: a web server for lncRNA-RNA interaction prediction integrated with tissue-specific expression and subcellular localization data	"Front Genet
+. 2019 May 28;10:462."	2019	doi: 10.3389/fgene.2019.00462	31191601	
+22	²“¡ sl	"Evidence for frequency]dependent selection maintaining polymorphism in the Batesian mimic Papilio polytes in multiple islands in the Ryukyus, Japan"	"Ecol Evol
+. 2019 Apr 24;9(10):5991-6002."	2019	doi: 10.1002/ece3.5182	31161014	
+23	‘å—¢ ’¼÷	Improvement of Detection Performance of Fusion Genes from RNA-Seq Data by Clustering Short Reads	"J Bioinform Comput Biol
+. 2019 Jun;17(3):1940008."	2019	doi: 10.1142/S0219720019400080	31288642	
+24	‘O“c ‘¾˜Y	A draft genome assembly of the solar-powered sea slug Elysia chlorotica.	"Sci Data
+. 2019 Feb 19;6:190022."	2019	doi: 10.1038/sdata.2019.22	30778257	
+25	‹v•Û –«	Single-cell transcriptome analysis of Physcomitrella leaf cells during reprogramming using microcapillary manipulation	"Nucleic Acids Res
+. 2019 May 21;47(9):4539-4553."	2019	doi: 10.1093/nar/gkz181	30873540	
+26	²“¡ Œ«“ñ	Applying Deep Learning Models to Mouse Behavior Recognition	"J. Biomedical Science and Engineering,
+2019, Vol. 12, (No. 2), pp: 183-196"	2019	doi: 10.4236/jbise.2019.122012  	–³‚µ	PDF‚ ‚è https://www.scirp.org/pdf/JBiSE_2019022715405912.pdf
+27	¼”g ‰ër	"A comprehensive reference transcriptome resource for the Iberian ribbed newt Pleurodeles waltl, an emerging model for developmental and regeneration biology."	"DNA Res
+. 2019 Jun 1;26(3):217-229."	2019	doi: 10.1093/dnares/dsz003	31006799	
+28	£ì ‚O	Genomic analyses of Bifidobacterium moukalabense reveal adaptations to frugivore/folivore feeding behavior	"Microorganisms
+. 2019 Apr 4;7(4):99."	2019	doi: 10.3390/microorganisms7040099	30987363	
+29	´… “¿˜N	Determining the parental combinations of the triploid acid citrus cultivars eYellow Bellf and eTahiti limef using DNA marker analyses	"
+Scientia Horticulturae
+Volume 246, 27 February 2019, Pages 893-897"	2019	doi: 10.1016/j.scienta.2018.11.071	–³‚µ	
+30	´… “¿˜N	Citrus Breeding 2.0: A Novel Approach Integrating Deciphered Parentage and Genomics-assisted Selection	"JARQ 53 (2), 81-85 (2019) "	2019	doi: 10.6090/jarq.53.81	–³‚µ	PDF‚ ‚è https://www.jircas.go.jp/sites/default/files/jarq/jarq/jarq53-2_81-85.pdf
+31	‘å“c ’B˜Y	Accumulating computational resource usage of genomic data analysis workflow to optimize cloud computing instance selection	"Gigascience
+. 2019 Apr 1;8(4):giz052."	2019	doi: 10.1093/gigascience/giz052	31222199	
+32	“nç² ”ü•ä	Genomic Characteristics of Desulfonema ishimotonii Tokyo 01T Implying Horizontal Gene Transfer Among Phylogenetically Dispersed Filamentous Gliding Bacteria	"Front Microbiol
+. 2019 Feb 19;10:227."	2019	doi: 10.3389/fmicb.2019.00227	30837965	
+33	–ìXR •üM	Phenotypic determinism and contingency in the evolution of hypothetical tree-like organisms	"PLoS One
+. 2019 Oct 31;14(10):e0211671."	2019	doi: 10.1371/journal.pone.0211671	31671104	
+34	¼”g ‰ër	"A comprehensive reference transcriptome resource for the Iberian ribbed newt Pleurodeles waltl, an emerging model for developmental and regeneration biology."	"DNA Res
+. 2019 Jun 1;26(3):217-229."	2019	doi: 10.1093/dnares/dsz003	31006799	
+35	‹“‡ Kˆê˜Y	A Sequence Resource of Autosomes and Additional Chromosomes in the Peach Pathotype of Alternaria alternata	"Mol Plant Microbe Interact
+. 2019 Oct;32(10):1273-1276. "	2019	doi: 10.1094/MPMI-04-19-0093-A	31125281	
+36	‘å“c ’B˜Y	Accumulating computational resource usage of genomic data analysis workflow to optimize cloud computing instance selection	"Gigascience
+. 2019 Apr 1;8(4):giz052. "	2019	doi: 10.1093/gigascience/giz052	31222199	
+37	–îŒ´ kj	Analysis of genetic recombination and the pan-genome of a highly recombinogenic bacteriophage species	"Microb Genom
+. 2019 Aug;5(8):e000282."	2019	doi: 10.1099/mgen.0.000282	31310202	
+38	“n•” —T‰î	Analysis of whole Y-chromosome sequences reveals the Japanese population history in the Jomon period	"Sci Rep
+. 2019 Jun 17;9(1):8556."	2019	doi: 10.1038/s41598-019-44473-z	31209235	
+39	"‰““¡ –¾m, ’O–ì L‹M"	Characterization of fructooligosaccharide-degrading enzymes in human commensal Bifidobacterium longum and Anaerostipes caccae	"Biochem Biophys Res Commun
+. 2019 Oct 15;518(2):294-298. "	2019	doi: 10.1016/j.bbrc.2019.08.049	31420164	
+40	‰« ^–í	Cis-control of Six1 expression in neural crest cells during craniofacial development.	"Dev Dyn
+. 2019 Dec;248(12):1264-1272."	2019	doi: 10.1002/dvdy.109	31464047	
+41	’†”ö —º	"Complete Genome Sequence of Rickettsia asiatica Strain Maytaro1284, a Member of Spotted Fever Group Rickettsiae Isolated from an Ixodes ovatus Tick in Japan."	"Microbiol Resour Announc
+. 2019 Sep 12;8(37):e00886-19."	2019	doi: 10.1128/MRA.00886-19	31515347	
+42	“nç² Œd	Complete sequence of mitochondrial DNA of Gloiopeltis furcata (Postels & Ruprecht) J. Agardh	"Mitochondrial DNA B Resour
+. 2019 Jul 18;4(2):2543-2544."	2019	doi: 10.1080/23802359.2019.1639558	33365618	
+43	âV“¡ —T	Comprehensive epigenome characterization reveals diverse transcriptional regulation across human vascular endothelial cells	"Epigenetics Chromatin
+. 2019 Dec 19;12(1):77."	2019	doi: 10.1186/s13072-019-0319-0	31856914	
+44	ã“c ^•Ûq	Comprehensive genomic analysis reveals dynamic evolution of mammalian transposable elements that code for viral-like protein domains	"BioRxiv, November 12, 2019."	2019	doi: 10.1186/s13100-020-00224-w	–³‚µ	PDF‚ ‚è https://www.biorxiv.org/content/10.1101/628875v2.full.pdf
+45	‰Ô“c k‰î	Contribution of Functional Divergence through Copy Number Variations to the Inter-species and Intra-species Diversity in Specialized Metabolites	"Front Plant Sci
+. 2019 Nov 26;10:1567. "	2019	doi: 10.3389/fpls.2019.01567	31850041	
+46	âV“¡ —T	Developing a codon optimization method for improved expression of recombinant proteins in actinobacteria	"Sci Rep
+. 2019 Jun 6;9(1):8338. "	2019	doi: 10.1038/s41598-019-44500-z	31171855	
+47	–å“c —LŠó	Development of molecular markers associated with resistance to Meloidogyne incognita by performing quantitative trait locus analysis and genome-wide association study in sweetpotato	"DNA Res
+. 2019 Oct 1;26(5):399-409."	2019	doi: 10.1093/dnares/dsz018	31377774	
+48	“’R ˆçq	Differential gene expression in skeletal organic matrix proteins of scleractinian corals associated with mixed aragonite/calcite skeletons under low mMg/Ca conditions	"PeerJ
+. 2019 Jul 15;7:e7241."	2019	doi: 10.7717/peerj.7241	31341732	
+49	£ì ‚O	Draft Genome Sequence of Clostridium tagluense strain A121T isolated from a permafrost core in the Canadian High Arctic	"Microbiol Resour Announc
+. 2019 Jan 31;8(5):e01630-18."	2019	doi: 10.1128/MRA.01630-18	30714037	
+50	•½”ö Í	"Draft genome sequence of novel Metschnikowia sp. strain JCM 33374, a nectar yeast isolated from a bumblebee"	"Microbiol Resour Announc
+. 2019 Sep 12;8(37):e00704-19."	2019	doi: 10.1128/MRA.00704-19	31515343	
+51	‰Ÿ–Ø ç	Draft genome sequence of the plant-growth-promoting Streptomyces sp. strain 6-11-2	"Microbiol Resour Announc
+. 2019 Nov 21;8(47):e00877-19."	2019	doi: 10.1128/MRA.00877-19	31753937	
+52	ˆäŠÖ Ÿ©‘¾˜N	"Effect of seed sett size on sprouting, shoot growth, and tuber yield of white guinea yam (Dioscorea rotundata)"	"PLANT PRODUCTION SCIENCE2020, VOL. 23, NO. 1, 75-80"	2019	doi: 10.1080/1343943X.2019.1667835	–³‚µ	"<= published 2019‚Æ‘‚¢‚Ä‚ ‚é
+PDF‚ ‚è https://www.tandfonline.com/doi/epub/10.1080/1343943X.2019.1667835?needAccess=true"
+53	Š}Œ´ _‘¾	Effects of ion?water Lennard-Jones potentials on the hydration dynamics around a monovalent atomic ion in molecular dynamics simulations	"Molecular Simulation 
+Volume 46, 2020 - Issue 2,Pages 83-91"	2019	doi: 10.1080/08927022.2019.1675883	–³‚µ	"<= published 2019‚Æ‘‚¢‚Ä‚ ‚é
+PDFŒ©‚Â‚©‚ç‚È‚¢"
+54	"¼Œ´ ¹G, “cè Œ[‰î"	Effects of knocking out three anthocyanin modification genes on the blue pigmentation of gentian flowers	"Sci Rep
+. 2019 Nov 1;9(1):15831."	2019	doi: 10.1038/s41598-019-51808-3	31676875	
+55	"’†‘º Œ\Œá, ‘ŠÔ ˜aÆ"	Effects of miR-98 in intrauterine extracellular vesicles on maternal immune regulation during the peri-implantation period in cattle	"Sci Rep
+. 2019 Dec 30;9(1):20330."	2019	doi: 10.1038/s41598-019-56879-w	31889113	
+56	Š}Œ´ _‘¾	Effects of number of parallel runs and frequency of bias-strength replacement in generalized ensemble molecular dynamics simulations	"Peer J. Phys. Chem.October 15, 2019, 1:e4, "	2019	10.7717/peerj-pchem.4	–³‚µ	
+57	•l’[ •üq	Endangered island endemic plants have vulnerable genomes	"Commun Biol
+. 2019 Jun 27;2:244."	2019	doi: 10.1038/s42003-019-0490-7	31263788	
+58	²“¡ sl	Environmental DNA metabarcoding to detect pathogenic Leptospira and associated organisms in leptospirosis-endemic areas of Japan	"Sci Rep
+. 2019 Apr 25;9(1):6575."	2019	doi: 10.1038/s41598-019-42978-1	31024059	
+59	²“¡ sl	"Evidence for frequency]dependent selection maintaining polymorphism in the Batesian mimic Papilio polytes in multiple islands in the Ryukyus, Japan"	"Ecol Evol
+. 2019 Apr 24;9(10):5991-6002."	2019	doi: 10.1002/ece3.5182	31161014	
+60	‘å’Î ’©	"Evolution of asexual Daphnia pulex in Japan: variations and covariations of the digestive, morphological and life history traits."	"BMC Evol Biol
+. 2019 Jun 13;19(1):122."	2019	doi: 10.1186/s12862-019-1453-9	31195967	
+61	“y¼ —²u	Exploring Genetic Diversity and Signatures of Horizontal Gene Transfer in Nodule Bacteria Associated with Lotus japonicus in Natural Environments	"Mol Plant Microbe Interact
+. 2019 Sep;32(9):1110-1120. "	2019	doi: 10.1094/MPMI-02-19-0039-R	30880586	
+62	‘]“c ’å 	Genetic basis of species-specific genitalia reveals role in species diversification	"Sci Adv
+. 2019 Jun 26;5(6):eaav9939. "	2019	doi: 10.1126/sciadv.aav9939	31249868	
+63	‹g“c ‘q	Genome sequence of Striga asiatica provides insight into the evolution of plant parasitism.	"Curr Biol
+. 2019 Sep 23;29(18):3041-3052.e4."	2019	doi: 10.1016/j.cub.2019.07.086	31522940	
+64	–å“c —LŠó	Genome-Wide Association Studies (GWAS) for Yield and Weevil Resistance in Sweet potato (Ipomoea batatas (L.) Lam)	"Plant Cell Rep
+. 2019 Nov;38(11):1383-1392."	2019	doi: 10.1007/s00299-019-02445-7	31342081	
+65	‹g“c Œ’‘¾˜Y	Genome-wide polymorphisms from RNA sequencing assembly of leaf transcripts facilitate phylogenetic analysis and molecular marker development in wild einkorn wheat	"Mol Genet Genomics
+. 2019 Oct;294(5):1327-1341. "	2019	doi: 10.1007/s00438-019-01581-9	31187273	
+66	£ì ‚O	Genomic analyses of Bifidobacterium moukalabense reveal adaptations to frugivore/folivore feeding behavior	"Microorganisms
+. 2019 Apr 4;7(4):99."	2019	doi: 10.3390/microorganisms7040099	30987363	
+67	‘å“c ’B˜Y	GWAS of mosaic loss of chromosome Y highlights genetic effects on blood cell differentiation	"Nat Commun
+. 2019 Oct 17;10(1):4719."	2019	"
+doi: 10.1038/s41467-019-12705-5"	31624269	
+68	‹g• ˜a•q	HaCeD-Seq: a Novel Method for Reliable and Easy Estimation About the Fish Population Using Haplotype Count from eDNA	"Mar Biotechnol (NY)
+. 2019 Dec;21(6):813-820."	2019	doi: 10.1007/s10126-019-09926-6	31758428	
+69	ˆîŠ_ @ˆê	Histone Acetylation Orchestrates Wound-Induced Transcriptional Activation and Cellular Reprogramming in Arabidopsis	"Commun Biol
+. 2019 Nov 4;2:404."	2019	doi: 10.1038/s42003-019-0646-5	31701032	
+70	ˆ¾’Ã ‹Å‹I	Histone Tail Dynamics in Partially Disassembled Nucleosomes During Chromatin Remodeling	"Front Mol Biosci
+. 2019 Nov 28;6:133."	2019	doi: 10.3389/fmolb.2019.00133	31850366	
+71	HŒõ M‰À	Identification of 2H phosphoesterase superfamily proteins with 2'-CPDase activity. Biochimie.	"Biochimie
+. 2019 Oct;165:235-244."	2019	doi: 10.1016/j.biochi.2019.08.008	31422053	
+72	‘O–ì T‘¾˜N	Introduction of bifunctional alcohol/acetaldehyde dehydrogenase gene (adhE) in Fructobacillus fructosus settled its fructophilic characteristics	"Res Microbiol
+. Jan-Feb 2019;170(1):35-42."	2019	doi: 10.1016/j.resmic.2018.09.004	30291951	
+73	"’JàV –õ—m, ’†‘º •Ûˆê"	"Lactobacillus salitolerans sp. nov., a novel lactic acid bacterium isolated from spent mushroom substrates."	"Int J Syst Evol Microbiol
+. 2019 Apr;69(4):964-969. "	2019	doi: 10.1099/ijsem.0.003224	30628884	
+74	"’JàV –õ—m, ’†‘º •Ûˆê"	Large-scale genome analysis of bovine commensal Escherichia coli reveals that bovine-adapted E. coli lineages are serving as evolutionary sources of the emergence of human intestinal pathogenic strains.	"Genome Res
+. 2019 Sep;29(9):1495-1505."	2019	doi: 10.1101/gr.249268.119	31439690	
+75	_àV G–¾	"Late Jomon male and female genome sequences from the Funadomari site in Hokkaido, Japan"	"Anthropological Science
+Vol. 127(2), 83?108, 2019"	2019	doi: 10.1537/ase.190415	–³‚µ	PDF‚ ‚è https://www.jstage.jst.go.jp/article/ase/127/2/127_190415/_pdf/-char/ja
+76	•Ÿ‰i ’Ã“	LncRRIsearch: A Web Server for lncRNA-RNA Interaction Prediction Integrated With Tissue-Specific Expression and Subcellular Localization Data	"Front Genet
+. 2019 May 28;10:462."	2019	doi: 10.3389/fgene.2019.00462	31191601	
+77	"“¡ˆä ‰ëj, •“c ^–ç"	Logical design of oral glucose ingestion pattern minimizing blood glucose in humans	"NPJ Syst Biol Appl
+. 2019 Sep 2;5:31. "	2019	doi: 10.1038/s41540-019-0108-1	31508240	
+78	"Šİ“c ‘ñm, ’C–{ «i"	Loss of olfaction in sea snakes provides new perspectives on the aquatic adaptation of amniotes	"Proc Biol Sci
+. 2019 Sep 11;286(1910):20191828."	2019	doi: 10.1098/rspb.2019.1828	31506057	
+79	à_“c –ƒ—Fq	Medusozoan genomes inform the evolution of the jellyfish body plan	"Nat Ecol Evol
+. 2019 May;3(5):811-822."	2019	doi: 10.1038/s41559-019-0853-y	30988488	
+80	‹ß“¡ L“ñ	"Monoallelic, antisense and total RNA transcription in an in vitro neural differentiation system based on F1 hybrid mice"	"J Cell Sci
+. 2019 Sep 9;132(17):jcs228973."	2019	doi: 10.1242/jcs.228973	31409693	
+81	Š}Œ´ _‘¾	Multidimensional Virtual-System Coupled Canonical Molecular Dynamics to Compute Free-Energy Landscapes of Peptide Multimer Assembly	"J Comput Chem
+. 2019 Oct 30;40(28):2453-2463. "	2019	doi: 10.1002/jcc.26020	31282023	
+82	ˆÀ“c m“Ş	Multiplexed ISSR genotyping by sequencing distinguishes two precious coral species (Anthozoa: Octocorallia: Coralliidae) that share a mitochondrial haplotype	"PeerJ
+. 2019 Oct 4;7:e7769."	2019	doi: 10.7717/peerj.7769	31598424	
+83	‚–Ø G÷	Next-generation sequencing-based bulked segregant analysis for QTL mapping in the heterozygous species Brassica rapa	"Theor Appl Genet
+. 2019 Oct;132(10):2913-2925. "	2019	doi: 10.1007/s00122-019-03396-z	31317235	
+84	“¡ˆä ‰ëj	NMDAR-Mediated Ca2+ Increase Shows Robust Information Transfer in Dendritic Spines.	"Biophys J
+. 2019 May 7;116(9):1748-1758."	2019	doi: 10.1016/j.bpj.2019.03.030	31023534	
+85	Vé Œbq	Pathogenic Epigenetic Consequences of Genetic Alterations in IDH-Wild-Type Diffuse Astrocytic Gliomas.	"Cancer Res
+. 2019 Oct 1;79(19):4814-4827. "	2019	doi: 10.1158/0008-5472.CAN-19-1272	31431463	
+86	Šâè Â	Possible cross-feeding pathway of facultative methylotroph Methyloceanibacter caenitepidi Gela4 on methanotroph Methylocaldum marinum S8	"PLoS One
+. 2019 Mar 14;14(3):e0213535."	2019	doi: 10.1371/journal.pone.0213535	30870453	
+87	ˆîŠ_ @ˆê	Primed histone demethylation regulates shoot regenerative competency	"Nat Commun
+. 2019 Apr 16;10(1):1786. "	2019	doi: 10.1038/s41467-019-09386-5	30992430	
+88	ˆäŒËì ‰ëj	Prognostic Effect of Long Noncoding RNA NEAT1 Expression Depends on p53 Mutation Status in Cancer.	"J Oncol
+. 2019 May 2;2019:4368068. "	2019	doi: 10.1155/2019/4368068	31186635	
+89	"‰““¡ –¾m, ‘O–ì T‘¾˜N"	"Pseudofructophilic Leuconostoc citreum strain F192-5, isolated from satsuma mandarin peel"	"Appl Environ Microbiol
+. 2019 Oct 1;85(20):e01077-19."	2019	doi: 10.1128/AEM.01077-19	31399409	
+90	ãâ «O	Recapitulation-like developmental transitions of chromatin accessibility in vertebrates	"Zoological Lett
+. 2019 Nov 14;5:33."	2019	doi: 10.1186/s40851-019-0148-9	31807314	
+91	"—é–Ø Œ[“¹, ÄŒ´ ˆê—z"	Recurrent non-coding U1-snRNA mutations drive cryptic splicing in Shh medulloblastoma.	"Nature
+. 2019 Oct;574(7780):707-711."	2019	doi: 10.1038/s41586-019-1650-0	31664194	
+92	¼Œ´ G“T	Retrotransposons spread potential cis-regulatory elements during mammary gland evolution	"Nucleic Acids Res
+. 2019 Dec 16;47(22):11551-11562."	2019	doi: 10.1093/nar/gkz1003	31642473	
+93	´… Œ³÷	RNA-Seq of in planta-expressed Magnaporthe oryzae genes identifies MoSVP as a highly expressed gene required for pathogenicity at the initial stage of infection	"Mol Plant Pathol
+. 2019 Dec;20(12):1682-1695."	2019	doi: 10.1111/mpp.12869	31560822	
+94	"“¡ˆä ‰ëj, •“c ^–ç"	Robustness against additional noise in cellular information transmission	"Phys Rev E
+. 2019 Oct;100(4-1):042403."	2019	doi: 10.1103/PhysRevE.100.042403	31770940	
+95	ˆÉ“¡ —C	Seasonal Stability and Dynamics of DNA Methylation in Plants in a Natural Environment	"Genes (Basel)
+. 2019 Jul 17;10(7):544. "	2019	doi: 10.3390/genes10070544	31319612	
+96	‘O“c ˆÀM	Secretome analysis of Strongyloides venezuelensis parasitic stages reveals that soluble and insoluble proteins are involved in its parasitism	"Parasit Vectors
+. 2019 Jan 9;12(1):21."	2019	doi: 10.1186/s13071-018-3266-x	30626426	
+97	ìã Lé	Specific basic patch-dependent multimerization of Saccharomyces cerevisiae ORC on single-stranded DNA promotes ATP hydrolysis	"Genes Cells
+. 2019 Sep;24(9):608-618."	2019	doi: 10.1111/gtc.12710	31233675	
+98	“c’† —´¹	Stage-specific transcriptome of Bursaphelenchus xylophilus reveals temporal regulation of effector genes and roles of the dauer-like stages in the lifecycle.	"Sci Rep
+. 2019 Apr 15;9(1):6080."	2019	doi: 10.1038/s41598-019-42570-7	30988401	
+99	RŒû ‰ë–ç	Streptococcus pneumoniae Evades Host Cell Phagocytosis and Limits Host Mortality Through Its Cell Wall Anchoring Protein PfbA	"Front Cell Infect Microbiol
+. 2019 Aug 20;9:301."	2019	doi: 10.3389/fcimb.2019.00301	31482074	
+100	–î–ì ‘å˜a	The recombination-cold region as an epidemiological marker of recombinogenic opportunistic pathogen Mycobacterium avium	"BMC Genomics
+. 2019 Oct 17;20(1):752. "	2019	doi: 10.1186/s12864-019-6078-2	31623552	
+101	‰Ô“c k‰î	Tyr82 Amino Acid Mutation in PB1 Polymerase Induces an Influenza Virus Mutator Phenotype	"J Virol
+. 2019 Oct 29;93(22):e00834-19. "	2019	doi: 10.1128/JVI.00834-19	31462570	
+102	‹k —Ti	Whole genome sequencing of Entamoeba nuttalli reveals mammalian host-related molecular signatures and a novel octapeptide-repeat surface protein	"PLoS Negl Trop Dis
+. 2019 Dec 5;13(12):e0007923."	2019	doi: 10.1371/journal.pntd.0007923	31805050	
+103	_àV G–¾	¼–k‹ãB–í¶l‚Ìˆâ“`“I‚È“Á’¥ \²¢•Ûs‰º–{RŠâ‰AˆâÕo“ylœ‚ÌŠjƒQƒmƒ€‰ğÍ\	"Anthropological Science (Japanese Series)
+Vol. 127(1), 25?43, 2019"	2019	doi: 10.1537/asj.1904231	–³‚µ	PDF‚ ‚è https://www.jstage.jst.go.jp/article/asj/127/1/127_1904231/_pdf/-char/ja
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

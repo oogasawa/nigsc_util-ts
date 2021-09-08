@@ -1,0 +1,165 @@
+	名前	論文名	雑誌名、巻号、ページの範囲	出版年	DOI	PMID	
+1	"中村 保一, 谷澤 靖洋, 矢倉 勝, 伊藤 佑"	"Chromatin Organization in Early Land Plants Reveals an Ancestral Association between H3K27me3, Transposons, and Constitutive Heterochromatin."	"Curr Biol
+. 2020 Feb 24;30(4):573-588.e7."	2020	doi: 10.1016/j.cub.2019.12.015.	32004456	
+2	"中村 保一, 谷澤 靖洋, 遠野 雅徳"	Reclassification of Clostridium diolis Biebl and Spr?er 2003 as a later heterotypic synonym of Clostridium beijerinckii Donker 1926 (Approved Lists 1980) emend. Keis et al. 2001	"Int J Syst Evol Microbiol
+. 2020 Apr;70(4):2463-2466."	2020	doi: 10.1099/ijsem.0.004059.	32068529	
+3	太田 明伸	Tandem Paired Nicking Promotes Precise Genome Editing with Scarce Interference by p53.	"Cell Rep
+. 2020 Jan 28;30(4):1195-1207.e7."	2020	doi: 10.1016/j.celrep.2019.12.064.	31995758	
+4	坊農 秀雅	All of gene expression (AOE): An integrated index for public gene expression databases	"PLoS One
+. 2020 Jan 24;15(1):e0227076."	2020	doi: 10.1371/journal.pone.0227076.	31978081	
+5	坊農 秀雅	Meta-Analysis of Hypoxic Transcriptomes from Public Databases	"Biomedicines
+. 2020 Jan 9;8(1):10."	2020	doi: 10.3390/biomedicines8010010.	31936636	
+6	井原 邦夫	gas1 Mutation Extends Chronological Lifespan via Pmk1 and Sty1 MAPKs in Schizosaccharomyces pombe	"Biosci Biotechnol Biochem
+. 2020 Feb;84(2):330-337."	2020	doi: 10.1080/09168451.2019.1676695.	31601154	
+7	福永 津嵩	Targeting the TR4 nuclear receptor-mediated lncTASR/AXL signaling with tretinoin increases the sunitinib sensitivity to better suppress the RCC progression	"Oncogene
+. 2020 Jan;39(3):530-545."	2020	doi: 10.1038/s41388-019-0962-8.	31501521	
+8	小野 肇	Functional characterization of olfactory receptors in three Dacini fruit flies (Diptera: Tephritidae) that respond to 1-nonanol analogs as components in the rectal glands	Comp Biochem Physiol B Biochem Mol Biol. 2020 Jan;239:110346.	2020	doi: 10.1016/j.cbpb.2019.110346.	31499218	
+9	加藤 有己	Bivartect: accurate and memory-saving breakpoint detection by direct read comparison	"Bioinformatics
+. 2020 May 1;36(9):2725-2730."	2020	doi: 10.1093/bioinformatics/btaa059.	31985791	
+10	井戸川 雅史	p53-induced ARVCF modulates the splicing landscape and supports the tumor suppressive function of p53.	"Oncogene
+. 2020 Mar;39(10):2202-2211."	2020	doi: 10.1038/s41388-019-1133-7.	31827232	
+11	保坂 健太郎	Complementary molecular methods reveal comprehensive phylogenetic diversity integrating inconspicuous lineages of early-diverged wood-decaying mushrooms	"Sci Rep
+. 2020 Feb 20;10(1):3057. "	2020	doi: 10.1038/s41598-020-59620-0.	32080243	
+12	"豊田 敦, 水口 洋平"	The mechanoreceptor DEG-1 regulates cold tolerance in Caenorhabditis elegans.	"EMBO Rep
+. 2020 Mar 4;21(3):e48671."	2020	doi: 10.15252/embr.201948671.	32009302	
+13	藤井 雅史	Affinity of rhodopsin to raft enables the aligned oligomer formation from dimers: Coarse-grained molecular dynamics simulation of disk membranes	"PLoS One
+. 2020 Feb 7;15(2):e0226123."	2020	doi: 10.1371/journal.pone.0226123.	32032370	
+14	漆原 範子	Novel staphylococcal cassette chromosome mec (SCCmec) type XIV (5A) and a truncated SCCmec element in SCC composite islands carrying speG in ST5 MRSA in Japan.	"J Antimicrob Chemother
+. 2020 Jan 1;75(1):46-50. "	2020	doi: 10.1093/jac/dkz406.	31617906	
+15	西山 智明	Anthoceros genomes illuminate the origin of land plants and the unique biology of hornworts	"Nat Plants
+. 2020 Mar;6(3):259-272. "	2020	doi: 10.1038/s41477-020-0618-2.	32170292	
+16	青木 誠志郎	Assessment of Polygala paniculata (Polygalaceae) characteristics for evolutionary studies of legume?rhizobia symbiosis.	"J Plant Res
+. 2020 Jan;133(1):109-122. "	2020	doi: 10.1007/s10265-019-01159-x.	31828682	
+17	"松井 求, 岩崎 渉"	Graph Splitting: A Graph-Based Approach for Superfamily-Scale Phylogenetic Tree Reconstruction	"Syst Biol
+. 2020 Mar 1;69(2):265-279. "	2020	doi: 10.1093/sysbio/syz049.	31364707	
+18	末永 俊和	"Complete Genome Sequence of Pseudomonas putida Strain TS312, Harboring a HdtS-Type N-Acyl-Homoserine Lactone Synthase, Isolated from a Paper Mill"	"Microbiol Resour Announc
+. 2020 Mar 26;9(13):e00055-20."	2020	doi: 10.1128/MRA.00055-20.	32217673	
+19	"草間 和哉, 中村 圭吾"	IFNT-independent effects of intrauterine extracellular vesicles (EVs) in cattle.	"Reproduction
+. 2020 May;159(5):503-511."	2020	doi: 10.1530/REP-19-0314.	32103820	
+20	清水 徳朗	Genomic Breeding	"The Genus Citrus
+2020, Pages 149-169"	2020	doi: 10.1016/B978-0-12-812163-4.00008-5	無し	<=  書籍
+21	井口 亮	Deep-sea amphipods around cobalt-rich ferromanganese crusts: Taxonomic diversity and selection of candidate species for connectivity analysis	"PLoS One
+. 2020 Feb 6;15(2):e0228483."	2020	doi: 10.1371/journal.pone.0228483. 	32027722	
+22	瀬川 高弘	Evaluation of reported sediment samples from 20 Ma using a molecular phylogenetic approach: comment on Liu et al. (2017)	"Environ Microbiol
+. 2020 Mar;22(3):813-818."	2020	doi: 10.1111/1462-2920.14923.	31984637	
+23	藤田 賢一	URH49 exports mRNA by remodeling complex formation and mediating the NXF1-dependent pathway.	"Biochim Biophys Acta Gene Regul Mech
+. 2020 Feb;1863(2):194480."	2020	doi: 10.1016/j.bbagrm.2020.194480.	31917363	
+24	吉田 健太郎	Diploid genome differentiation conferred by RNA sequencing-based survey of genome-wide polymorphisms throughout homoeologous loci in Triticum and Aegilops	"BMC Genomics
+. 2020 Mar 20;21(1):246."	2020	doi: 10.1186/s12864-020-6664-3.	32192452	
+25	佐藤 康成	Characteristics of induced mutations in offspring derived from irradiated mouse spermatogonia and mature oocytes.	"Sci Rep
+. 2020 Jan 8;10(1):37. "	2020	doi: 10.1038/s41598-019-56881-2.	31913321	
+26	岩切 淳一	LncRNA-dependent nuclear stress bodies promote intron retention through SR protein phosphorylation	"EMBO J
+. 2020 Feb 3;39(3):e102729."	2020	doi: 10.15252/embj.2019102729.	31782550	
+27	黒田 大祐	How the protonation state of a phosphorylated amino acid governs molecular recognition: insights from classical molecular dynamics simulations	"FEBS Lett
+. 2020 Mar;594(5):903-912. "	2020	doi: 10.1002/1873-3468.13674.	31713840	
+28	佐藤 賢二	Classification of Brainwaves for Sleep Stages by High-Dimensional FFT Features from EEG Signals	"Appl. Sci. 2020, 10(5), 1797;"	2020	doi: 10.3390/app10051797	無し	PDFあり
+29	鈴木 真也	Probabilistic model based on circular statistics for quantifying coverage depth dynamics originating from DNA replication	"PeerJ
+. 2020 Mar 27;8:e8722."	2020	doi: 10.7717/peerj.8722.	32257635	
+30	吉田 光範	"Complete Genome Sequence of Mycobacterium xenopi JCM15661T, Obtained Using Nanopore and Illumina Sequencing Technologies"	"Microbiol Resour Announc
+. 2020 Mar 5;9(10):e01583-19."	2020	doi: 10.1128/MRA.01583-19.	32139563	
+31	"神沼 英里, 中村 保一"	DDBJ Data Analysis Challenge: a machine learning competition to predict Arabidopsis chromatin feature annotations from DNA sequences.	"Genes Genet Syst
+. 2020 Apr 22;95(1):43-50. "	2020	doi: 10.1266/ggs.19-00034. 	32213716	
+32	高田 美信	Characterization of self-incompatible Brassica napus lines lacking SP11 expression	"Genes Genet Syst
+. 2020 Aug 27;95(3):111-118. "	2020	doi: 10.1266/ggs.19-00050.	32493878	
+33	佐藤 行人	Development of 22 Microsatellite Markers for Assessing Hybridization in the Genus Gekko (Squamata: Gekkonidae)	"Current Herpetology 39(1): 66?74, February 2020"	2020	doi.org/10.5358/hsj.39.66	無し	PDFあり
+34	上田 真保子	Efficient differentiation and polarization of primary cultured neurons on poly(lactic acid) scaffolds with microgrooved structures.	"Sci Rep
+. 2020 Apr 21;10(1):6716. "	2020	doi: 10.1038/s41598-020-63537-z.	32317746	
+35	福多 賢太郎	The Genetic Basis of Morphological Diversity in Domesticated Goldfish	"Curr Biol
+. 2020 Jun 22;30(12):2260-2274.e6."	2020	doi: 10.1016/j.cub.2020.04.034. 	32392470	
+36	鳥丸 猛	Assessments of fine-scale spatial patterns of SNPs in an old-growth beech forest	"Heredity (Edinb)
+. 2020 Oct;125(4):240-252."	2020	doi: 10.1038/s41437-020-0334-8. 	32606418	
+37	"山田 和範, 林 方州"	Developing a Novel Recurrent Neural Network Architecture with Fewer Parameters and Good Learning Performance	"Interdisciplinary Information Sciences Vol. 27, No. 1 (2021) 25?40 "	2021	doi.org/10.4036/iis.2020.R.01	無し	<= 2021
+38	"根本 理子, 小布施 祈織"	Comparative Gene Analysis Focused on Silica Cell Wall Formation: Identification of Diatom-Specific SET Domain Protein Methyltransferases	"Mar Biotechnol (NY)
+. 2020 Aug;22(4):551-563."	2020	doi: 10.1007/s10126-020-09976-1.	32488507	
+39	松尾 芳隆	RQT complex dissociates ribosomes collided on endogenous RQC substrate SDD1	"Nat Struct Mol Biol
+. 2020 Apr;27(4):323-332."	2020	doi: 10.1007/s10126-020-09976-1.	33001289	
+40	松尾 芳隆	The Ccr4-Not complex monitors the translating ribosome for codon optimality	"Science
+. 2020 Apr 17;368(6488):eaay6912. "	2020	doi: 10.1126/science.aay6912.	32299921	
+41	松尾 芳隆	Ribosomal protein S7 ubiquitination during ER stress in yeast is associated with selective mRNA translation and stress outcome	"Sci Rep
+. 2020 Nov 12;10(1):19669. "	2020	doi: 10.1038/s41598-020-76239-3.	33184379	
+42	"岩崎 渉, 美世 一守"	Environmental atlas of prokaryotes enables powerful and intuitive habitat-based analysis of community structures.	"iScience
+. 2020 Sep 29;23(10):101624.
+"	2020	doi: 10.1016/j.isci.2020.101624.	33117966	
+43	矢原 耕史	Shotgun metagenome sequencing identification of a set of genes encoded by Actinomyces associated with medication-related osteonecrosis of the jaw	"PLoS One
+. 2020 Nov 30;15(11):e0241676."	2020	doi: 10.1371/journal.pone.0241676.	33253207	
+44	久米 慶太郎	Mitochondrial Genomes of Hemiarma marina and Leucocryptos marina Revised the Evolution of Cytochrome c Maturation in Cryptista	ORIGINAL RESEARCH  published: 02 June 2020	2020	doi.org/10.3389/fevo.2020.00140	無し	PDFあり　https://www.researchgate.net/publication/341819472_Mitochondrial_Genomes_of_Hemiarma_marina_and_Leucocryptos_marina_Revised_the_Evolution_of_Cytochrome_c_Maturation_in_Cryptista
+45	久米 慶太郎	Barthelonids represent a deep-branching metamonad clade with mitochondrion-related organelles predicted to generate no ATP	"Proc Biol Sci
+. 2020 Sep 9;287(1934):20201538."	2020	doi: 10.1098/rspb.2020.1538.	32873198	
+46	SHENTON MATTHEW	"Evolution and Diversity of the Wild Rice Oryza officinalis Complex, across Continents, Genome Types, and Ploidy Levels"	"Genome Biol Evol
+. 2020 Apr 1;12(4):413-428."	2020	doi: 10.1093/gbe/evaa037.	32125373	
+47	浜端 朋子	Natal origin identification of green turtles in the North Pacific by genome-wide population analysis with limited DNA samples	ORIGINAL RESEARCH  published: 07 August 2020	2020	doi.org/10.3389/fmars.2020.00658	無し	PDFあり　https://georgehbalazs.com/wp-content/uploads/2020/08/fmars-07-006581.pdf
+48	"平瀬 祥太朗, 岩崎 渉"	Integrative genomic phylogeography reveals signs of mitonuclear incompatibility in a natural hybrid goby population	"Evolution
+. 2021 Jan;75(1):176-194. "	2020	doi: 10.1111/evo.14120. 	33165944	<= published 2020と書いてある https://onlinelibrary.wiley.com/doi/epdf/10.1111/evo.14120
+49	"福永 津嵩, 岩崎 渉"	Logicome Profiler: Exhaustive detection of statistically significant logic relationships from comparative omics data	"PLoS One
+. 2020 May 1;15(5):e0232106. "	2020	doi: 10.1371/journal.pone.0232106.	32357172	
+50	"秋光 信佳, 土屋 貴穂"	Stability of RNA sequences derived from the coronavirus genome in human cells	"Biochem Biophys Res Commun
+. 2020 Jul 5;527(4):993-999."	2020	doi: 10.1016/j.bbrc.2020.05.008.	32446559	
+51	松前 ひろみ	Ancient Jomon genome sequence analysis sheds light on migration patterns of early East Asian populations	"Commun Biol
+. 2020 Aug 25;3(1):437."	2020	doi: 10.1038/s42003-020-01162-2.	32843717	
+52	古舘 健	Clonal evolution of acute myeloid leukemia revealed by high-throughput single-cell genomics	"Nat Commun
+. 2020 Oct 21;11(1):5327."	2020	doi: 10.1038/s41467-020-19119-8	33087716	
+53	遠藤 明仁	"Kunkecin A, a New Nisin Variant Bacteriocin Produced by the Fructophilic Lactic Acid Bacterium, Apilactobacillus kunkeei FF30-6 Isolated From Honey Bees"	"Front Microbiol
+. 2020 Sep 16;11:571903. "	2020	doi: 10.1186/s12866-020-01830-7	32493209	
+54	遠藤 明仁	"PCR-based screening, isolation, and partial characterization of motile lactobacilli from various animal feces"	"BMC Microbiol
+. 2020 Jun 3;20(1):142. "	2020	doi: 10.1186/s12866-020-01830-7	32493209	
+55	高木 亙	Facilitated NaCl Uptake in the Highly Developed Bundle of the Nephron in Japanese Red Stingray Hemitrygon akajei Revealed by Comparative Anatomy and Molecular Mapping	"Zoolog Sci
+. 2020 Oct;37(5):458-466."	2020	doi: 10.2108/zs200038	32972087	
+56	鈴木 郁夫	YIPF5 mutations cause neonatal diabetes and microcephaly through endoplasmic reticulum stress	"J Clin Invest
+. 2020 Dec 1;130(12):6338-6353."	2020	doi: 10.1172/JCI141455	33164986	
+57	西原 昌宏	Molecular characterization of an anthocyanin-related glutathione S- transferase gene in Japanese gentian with the CRISPR/Cas9 system	"BMC Plant Biol
+. 2020 Aug 6;20(1):370. "	2020	doi: 10.1186/s12870-020-02565-3	32762648	
+58	"中村 保一, 谷澤 靖洋, 遠野 雅徳"	"Lactobacillus buchneri subsp. silagei subsp. nov., isolated from rice grain silage."	"Int J Syst Evol Microbiol
+. 2020 May;70(5):3111-3116."	2020	doi: 10.1099/ijsem.0.004138	32250236	
+59	"中村 保一, 谷澤 靖洋"	Whole-exome sequencing of 79 xenografts as a potential approach for the identification of genetic variants associated with sensitivity to cytotoxic anticancer drugs.	"PLoS One
+. 2020 Sep 28;15(9):e0239614."	2020	doi: 10.1371/journal.pone.0239614	32986753	
+60	佐藤 晋也	"Genome-enabled phylogenetic and functional reconstruction of an araphid pennate diatom Plagiostriata sp. CCMP470, previously assigned as a radial centric diatom, and its bacterial commensal"	"Sci Rep
+. 2020 Jun 10;10(1):9449."	2020	doi: 10.1038/s41598-020-65941-x	32523048	
+61	福島 健児	Amalgamated cross-species transcriptomes reveal organ-specific propensity in gene expression evolution	"Nat Commun
+. 2020 Sep 8;11(1):4459."	2020	doi: 10.1038/s41467-020-18090-8	32900997	
+62	江副 晃洋	Degree of Functional Divergence in Duplicates Is Associated with Distinct Roles in Plant Evolution	"Mol Biol Evol
+. 2021 Apr 13;38(4):1447-1459. "	2021	doi: 10.1093/molbev/msaa302	33290522	<= published 2020と書いてある https://academic.oup.com/mbe/article/38/4/1447/6025181?login=true
+63	安河内 彦輝	Transcriptomic changes in young Japanese males after exposure to acute hypobaric hypoxia	"Front Genet
+. 2020 Sep 8;11:559074."	2020	doi: 10.3389/fgene.2020.559074	33101380	
+64	小林 和也	Dimorphic flowers modify the visitation order of pollinators from male to female flowers	"Sci Rep
+. 2020 Jun 19;10(1):9965."	2020	doi: 10.1038/s41598-020-66525-5	32561882	
+65	加藤 有己	A comparative analysis of ADAR mutant mice reveals site-specific regulation of RNA editing	"RNA
+. 2020 Apr;26(4):454-469."	2020	doi: 10.1261/rna.072728.119	31941663	
+66	加藤 有己	ADAR1 regulates early T cell development via MDA5-dependent and -independent pathways	"J Immunol
+. 2020 Apr 15;204(8):2156-2168. "	2020	doi: 10.4049/jimmunol.1900929	32169840	
+67	宮澤 清太	Pattern blending enriches the diversity of animal colorations	Sci Adv.;6(49):eabb9107	2020	doi: 10.1126/sciadv.abb9107	33268371	
+68	"齋藤 裕, 来見田 遥一"	Predicting antibody affinity changes upon mutations by combining multiple predictors	Sci Rep.;10(1):19533	2020	doi: 10.1038/s41598-020-76369-8	33177627	
+69	西井 かなえ	QTL dissection of floral traits in Streptocarpus (Gesneriaceae)	"Netherlands Journal of Plant Breeding, 01 Jul 2020, 216(7):110"	2020	doi: 10.1007/s10681-020-02647-1 	無し	
+70	大島 一里	The evolutionary history and global spatio-temporal dynamics of potato virus Y	"Virus Evol
+. 2020 Nov 21;6(2):veaa056"	2020	doi: 10.1093/ve/veaa056	33324488	
+71	竹下 和貴	Genomic Comparison of Insect Gut Symbionts from Divergent Burkholderia Subclades	"Genes (Basel)
+. 2020 Jul 3;11(7):744."	2020	doi: 10.3390/genes11070744	32635398	
+72	笠原 浩太	myPresto/omegagene 2020: a molecular dynamics simulation engine for virtual-system coupled sampling	"Biophys Physicobiol
+. 2020 Oct 15;17:140-146."	2020	doi: 10.2142/biophysico.BSJ-2020013	33240741	
+73	曽 超	RNA-seq analysis reveals localization-associated alternative splicing across 13 cell lines	"Genes (Basel)
+. 2020 Jul 18;11(7):820."	2020	doi: 10.3390/genes11070820	32708427	
+74	齋藤 裕	Existence and possible roles of independent non-CpG methylation in the mammalian brain	"DNA Res
+. 2020 Aug 1;27(4):dsaa020."	2020	doi: 10.1093/dnares/dsaa020	33524135	
+75	"Rai Amit, ライ メガ"	Multiomics-based characterization of specialized metabolites biosynthesis in Cornus Officinalis	"DNA Res
+. 2020 Apr 1;27(2):dsaa009."	2020	doi: 10.1093/dnares/dsaa009.	32426807	
+76	佐藤 行人	Understanding leptospirosis eco-epidemiology by environmental DNA metabarcoding of irrigation water from two agro-ecological regions of Sri Lanka	"PLoS Negl Trop Dis
+. 2020 Jul 23;14(7):e0008437."	2020	doi: 10.1371/journal.pntd.0008437	32701971	
+77	佐藤 行人	"Population genetic structure and evolution of Batesian mimicry in Papilio polytes from the Ryukyu Islands, Japan, analyzed by genotyping‐by‐sequencing"	"Ecol Evol
+. 2020 Dec 24;11(2):872-886."	2020	doi: 10.1002/ece3.7092	33520172	
+78	郷 康広	Redundant type II cadherins define neuroepithelial cell states for cytoarchitectonic robustness.	"Commun Biol
+. 2020 Oct 15;3(1):574."	2020	doi: 10.1038/s42003-020-01297-2	33060832	
+79	郷 康広	Transcriptome analysis revealed misregulated gene expression in blastoderms of interspecific chicken and Japanese quail F1 hybrids	"PLoS One
+. 2020 Oct 12;15(10):e0240183."	2020	doi: 10.1371/journal.pone.0240183	33044996	
+80	郷 康広	AUTS2 regulation of synapses for proper synaptic inputs and social communication	"iScience
+. 2020 Jun 26;23(6):101183."	2020	doi: 10.1016/j.isci.2020.101183	32498016	
+81	"黒田 真也, 藤井 雅史, 土屋 貴穂"	Transomics analysis reveals allosteric and gene regulation axes for altered hepatic glucose-responsive metabolism in obesity	"Sci Signal
+. 2020 Dec 1;13(660):eaaz1236."	2020	doi: 10.1126/scisignal.aaz1236	33262292	
+82	"黒田 真也, 藤井 雅史"	Monitoring and mathematical modeling of mitochondrial ATP in myotubes at single-cell level reveals two distinct population with different kinetics	"Quantitative Biology 2020, 8(3): 228?237"	2020	doi: 10.1007/s40484-020-0211-8	無し	PDFあり　https://link.springer.com/content/pdf/10.1007/s40484-020-0211-8.pdf
+83	"豊田 敦, 水口 洋平, 近藤 伸二"	Comparative genomic analyses illuminate the distinct evolution of megabats within Chiroptera	"DNA Res
+. 2020 Aug 1;27(4):dsaa021."	2020	doi: 10.1093/dnares/dsaa021	32966557	
+84	"豊田 敦, 水口 洋平"	A genome database for a Japanese population of the larvacean Oikopleura dioica	"Dev Growth Differ
+. 2020 Aug;62(6):450-461."	2020	doi: 10.1111/dgd.12689	32677034	
+85	"岩切 淳一, 滝沢 拓己"	RintC: fast and accuracy-aware decomposition of distributions of RNA secondary structures with extended logsumexp	"BMC Bioinformatics
+. 2020 May 24;21(1):210."	2020	doi: 10.1186/s12859-020-3535-5	32448174	
+86	"岩切 淳一, 滝沢 拓己"	Finding the direct optimal RNA barrier energy and improving pathways with an arbitrary energy model	"Bioinformatics
+. 2020 Jul 1;36(Suppl_1):i227-i235."	2020	doi: 10.1093/bioinformatics/btaa469	32657400	
+87	山
