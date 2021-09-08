@@ -24,6 +24,7 @@ nigsc_util table --help   # tableコマンドの使い方表示
 TSV => HTML変換 (汚いデータの修正前処理こみ）
 
 ```
+iconv -f SHIFT_JIS -t UTF-8 paper_2020.txt > paper_2020.utf8.txt
 nigsc_util table paper_2020.utf8.txt > paper_2020.utf8.html
 ```
 
